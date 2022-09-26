@@ -4,13 +4,13 @@ Module 7
 ## Overview of the Analysis:
 Using SQL we determined the number of retiring employees per title and identified employees eligible to participate in a mentorship program. By analyzing the data we are helping Pewlett Hackard prepare for future employee retirement.
 
-## Results Analyzing the 'Retiring Titles':
+## Results Analyzing 'Retiring Titles':
 - Of those reaching retirement, nearly 50% are Engineers.
 - Of those reaching retirement, over 70% are designated as Senior.
 
 ![TBrickey]( https://github.com/TBrickey/Pewlett-Hackard-Analysis/blob/main/Queries/retiring_titles.png)
 
-## Results Analyzing the 'Mentoring Eligibly:
+## Results Analyzing 'Mentorship Eligibilty':
 - Implementing a mentorship strategy will be crucial in maintain employment levels.
 - Due to the smaller list of available mentors, the company will need to deploy other strategies to mentorship prepare for the upcoming "silver tsunami".
  
