@@ -16,10 +16,10 @@ Using SQL we determined the number of retiring employees per title and identifie
 ![TBrickey]( https://github.com/TBrickey/Pewlett-Hackard-Analysis/blob/main/Queries/mentorship_eligibility.png)
 
 ## Summary:
-Over 72 thousand roles will need to be filled as the "silver tsunami" starts. 
+There are over 72 thousand roles that will need to be filled as the "silver tsunami" starts. 
 
-There are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. There are 1,549 qualified but not all would participate in a mentoring program.
+There are not enough qualified, retirement-ready employees to mentor the next generation of Pewlett Hackard employees. There are 1,549 qualified but not all would be willing to participate in a mentoring program.
 
-Instead of looking for retirement-ready employees, we should expand are search for anyone with the company for 8 years or more or senior employees with over 4 years of experience to increase the Mentoring pool.  
+Instead of looking for retirement-ready employees, we should expand our search for employees with 8 years of experience or more and senior employees with over 4 years of experience to increase the mentoring pool.  
 
-Another queries or tables that may provide more insight might be to review employees who have had several titles at the company to help mentor lower level employees.
+Another query or table that may provide more insight would be to review employees who have had several titles at the company to help mentor lower level employees and give them a path of success.
